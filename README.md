@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thank you for visiting my GitHub account! Here you'll find a variety of projects and repositories that reflect my interests, skills, and contributions to the developer community. Whether you're a fellow developer, an open-source enthusiast, or just curious about what I'm working on, I hope you find something interesting and valuable here.
+
 <!--
 **aleksavelickovic/aleksavelickovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
